@@ -1,0 +1,42 @@
+{
+  "accounts": [
+    {
+      "address": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "balance": "1000.5",
+      "totalTransactions": 1500,
+      "tokens": [
+        {
+          "symbol": "XTH",
+          "balance": "1000.5"
+        },
+        {
+          "symbol": "THB",
+          "balance": "5000.0"
+        },
+        {
+          "symbol": "FCK",
+          "balance": "750.0"
+        }
+      ]
+    },
+    {
+      "address": "0x123d35Cc6634C0532925a3b844Bc454e4438f123",
+      "balance": "2500.75",
+      "totalTransactions": 850,
+      "tokens": [
+        {
+          "symbol": "XTH",
+          "balance": "2500.75"
+        },
+        {
+          "symbol": "THB",
+          "balance": "10000.0"
+        },
+        {
+          "symbol": "FCK",
+          "balance": "1500.0"
+        }
+      ]
+    }
+  ]
+}

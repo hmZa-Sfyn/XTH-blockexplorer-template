@@ -1,0 +1,24 @@
+{
+  "blocks": [
+    {
+      "number": 1000000,
+      "hash": "0x8e38b4dbf6b11fcc3b9dee84fb7986e29ca0a02cecd8977c161ff7333329681e",
+      "timestamp": "2024-03-14T12:00:00Z",
+      "miner": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "transactions": 150,
+      "size": 45678,
+      "gasUsed": 8500000,
+      "gasLimit": 15000000
+    },
+    {
+      "number": 999999,
+      "hash": "0x7d28b4dbf6b11fcc3b9dee84fb7986e29ca0a02cecd8977c161ff7333329681f",
+      "timestamp": "2024-03-14T11:59:45Z",
+      "miner": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "transactions": 120,
+      "size": 42123,
+      "gasUsed": 7800000,
+      "gasLimit": 15000000
+    }
+  ]
+}

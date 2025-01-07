@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.always-flex {
+    display: flex;
+}
+
+.always-flex div{
+    width: 100%;
+    margin:5px;
+    padding:10px;
+}
